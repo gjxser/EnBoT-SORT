@@ -32,6 +32,7 @@ output/
 - FastReID: [Official GitHub](https://github.com/JDAI-CV/fast-reid)
 - BoT-SORT: [Official GitHub](https://github.com/NirAharon/BOT-SORT)
 - YOLOv12: [Official GitHub](https://github.com/sunsmarterjie/yolov12)
+- UAVSwarm dataset: [Official GitHub](https://github.com/UAVSwarm/UAVSwarm-dataset)
 
 ### 5. Citation
 If you use this code in your research, please cite our paper
