@@ -1,5 +1,6 @@
-# EnBoT-SORT
-# EnBoT-SORT Project
+#Pseudo-Sample Generation and Hierarchical Fusion-Association Tracking for Dense Thermal Infrared UAVs
+<img width="8996" height="1554" alt="跟踪整体框架" src="https://github.com/user-attachments/assets/ee7a5ffd-ee14-4fcf-b944-5a0c44ebdb0a" />
+![Uploading IRC-B-mulit-54.png…]()
 
 ## Pseudo-Sample Generation Module
 
