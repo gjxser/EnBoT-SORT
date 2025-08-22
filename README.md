@@ -35,4 +35,4 @@ output/
 - UAVSwarm dataset: [Official GitHub](https://github.com/UAVSwarm/UAVSwarm-dataset)
 
 ### 5. Citation
-If you use this code in your research, please cite our paper
+If you use this code in your research, please cite our paper.
