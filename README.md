@@ -33,6 +33,7 @@ output/
 - BoT-SORT: [Official GitHub](https://github.com/NirAharon/BOT-SORT)
 - YOLOv12: [Official GitHub](https://github.com/sunsmarterjie/yolov12)
 - UAVSwarm dataset: [Official GitHub](https://github.com/UAVSwarm/UAVSwarm-dataset)
+<img width="2500" height="753" alt="Strong-R-mulit(1)" src="https://github.com/user-attachments/assets/13f1b059-11ca-4064-a0c6-ad43437cf9ac" />
 
 ### 5. Citation
 If you use this code in your research, please cite our paper.
