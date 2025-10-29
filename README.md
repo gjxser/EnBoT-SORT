@@ -33,7 +33,7 @@ output/
 - BoT-SORT: [Official GitHub](https://github.com/NirAharon/BOT-SORT)
 - YOLOv12: [Official GitHub](https://github.com/sunsmarterjie/yolov12)
 - UAVSwarm dataset: [Official GitHub](https://github.com/UAVSwarm/UAVSwarm-dataset)
-<img width="2500" height="753" alt="Strong(1)" src="https://github.com/user-attachments/assets/1c080c23-8663-4a9a-9d72-9918fc84f667" />
+<img width="10000" height="2854" alt="Strong(1)(1)" src="https://github.com/user-attachments/assets/4ede26ef-a6ac-4cbe-b279-3f2cd0bb4b4c" />
 
 
 ### 5. Citation
